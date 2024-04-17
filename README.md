@@ -8,4 +8,4 @@ Um bom rei protege seu povo, esse mini game foi desenvolvido para a disciplina d
 ## Ferramentas
 - Construct 3
 - Firebase
-<img scr="bd.png">
+![Banco de Dados](bd.png)
