@@ -8,4 +8,6 @@ Um bom rei protege seu povo, esse mini game foi desenvolvido para a disciplina d
 ## Ferramentas
 - Construct 3
 - Firebase
-![Banco de Dados](https://imagembd.netlify.app/)
+<p align = "center">
+    <img width="470" src="src/assets/BD.png"
+</p>
