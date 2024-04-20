@@ -20,3 +20,6 @@ Um bom rei protege seu povo, esse mini game foi desenvolvido para a disciplina d
 <p align = "center">
     <img width="470" src="src/assets/atacked.png"
 </p>
+
+## Link do jogo
+Acesse ![https://minigameintro.netlify.app] e se divirta!
